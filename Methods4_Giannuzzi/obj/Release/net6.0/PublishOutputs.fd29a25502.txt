@@ -1,0 +1,5 @@
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MethodsExercises\Methods4_Giannuzzi\bin\Release\net6.0\app.publish\Methods4_Giannuzzi.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MethodsExercises\Methods4_Giannuzzi\bin\Release\net6.0\app.publish\Methods4_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MethodsExercises\Methods4_Giannuzzi\bin\Release\net6.0\app.publish\Methods4_Giannuzzi.deps.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MethodsExercises\Methods4_Giannuzzi\bin\Release\net6.0\app.publish\Methods4_Giannuzzi.runtimeconfig.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MethodsExercises\Methods4_Giannuzzi\bin\Release\net6.0\app.publish\Methods4_Giannuzzi.pdb
